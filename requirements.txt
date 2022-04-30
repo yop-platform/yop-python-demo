@@ -1,0 +1,2 @@
+yop-python-sdk>=4.2.10
+crcmod>=1.7
